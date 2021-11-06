@@ -1,0 +1,2 @@
+# SpotDiary
+SpotDiary Web Project
