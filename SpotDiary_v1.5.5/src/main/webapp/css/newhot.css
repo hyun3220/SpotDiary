@@ -1,0 +1,19 @@
+@charset "UTF-8";
+article{
+	float:left;
+	margin-left:10px;
+	margin-bottom:10px;
+	
+}
+#wrap{
+	width :800px;
+	margin : 0 auto;
+	overflow : hidden;
+	padding-top:10px;
+}
+
+text1{
+	float:left;
+	font-size : 1.05em;
+	font-color: white;
+}
